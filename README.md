@@ -13,11 +13,14 @@ Focused on **low-resource language modeling** and Korean dialect preservation. B
 
 ### 💻 Skills
 
-**Software**
-- Python · PyTorch · SQL · R · Git · LaTeX
-
-**Hardware**
-- Arduino · Soldering · PCB Design · Sensor integration
+| **Software** | **Hardware** |
+|---|---|
+| Python | Arduino |
+| PyTorch | Soldering |
+| SQL | PCB Design |
+| R | Sensor Integration |
+| Git | |
+| LaTeX | |
 
 ### 🔭 Currently
 - Building dialect corpus annotation tools
