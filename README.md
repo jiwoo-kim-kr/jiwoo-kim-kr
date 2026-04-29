@@ -1,6 +1,6 @@
 # Jiwoo Kim 🪶
 
-### 👩🔬 About Me
+### 🇰🇷 About Me
 Research Assistant @ Computational Linguistics Lab, Busan  
 Hybrid affiliation with Dnipro Academic Exchange (Kyiv)
 
