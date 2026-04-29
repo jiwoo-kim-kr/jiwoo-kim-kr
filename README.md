@@ -36,5 +36,8 @@ I'm currently focused on improving Korean NLP coverage for low-resource dialects
 - Low-resource evaluation metrics
 - Advanced statistics for linguistic data
 
+### 🚀 Next Steps
+- **Sentiment Analysis for Multi-modal Contexts** — cleaning up code, work in progress exploring text + audio + visual cues for Korean sentiment
+
 ### 📫 Connect
 jiwoo.kim-tmp@turing.com · Busan, KR ↔ Kyiv, UA
