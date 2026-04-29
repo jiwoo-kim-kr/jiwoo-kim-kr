@@ -27,10 +27,15 @@ I'm currently focused on improving Korean NLP coverage for low-resource dialects
 | Python | Arduino |
 | PyTorch | Soldering |
 | Transformers | PCB Design |
-| SQL | Sensor Integration |
+| HuggingFace | Sensor Integration |
+| SQL | |
 | R | |
 | Git | |
 | LaTeX | |
+
+| **Models** |
+|---|
+| KoBERT |
 
 ### 🔭 Currently
 - Building dialect corpus annotation tools
